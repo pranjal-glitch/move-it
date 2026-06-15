@@ -9,7 +9,6 @@ It’s designed to showcase a moving company’s professionalism, services, and 
 👉 [View Website](https://pranjal-glitch.github.io/move-it/)
 
 ---
-
 ## ✨ Features
 
 - 🧭 Responsive navigation bar with branding  
