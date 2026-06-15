@@ -6,6 +6,7 @@
     .feature {
   margin-bottom: 3rem; /* adjust: 2rem = medium, 3rem = more space */
 }
+
 .fade-in {
   opacity: 0;
   transform: translateY(30px);
